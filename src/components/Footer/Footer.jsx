@@ -39,7 +39,7 @@ const Footer = () => {
 
       {/* Copyright */}
       <p className="mt-6 text-gray-500 text-sm text-center">
-        &copy; {new Date().getFullYear()} Abhishek Mandavi @2025. All rights reserved.
+        &copy; {new Date().getFullYear()} Abhishek Mandavi . All rights reserved.
       </p>
     </footer>
   );
