@@ -8,7 +8,7 @@ export const Bio = {
     description:
       "I’m a full-stack developer who can build industrial-level applications solo (with a little patience). I juggle backend, frontend, databases, and problem-solving like a pro. Don’t underestimate me!",
     github: "https://github.com/abhishek-mandavi",
-    resume: "https://drive.google.com/file/d/1kqNHl-DdBJ2SxeRnUve-LXgtaY8q52AM/view?usp=sharing",
+    resume: "https://drive.google.com/file/d/1Gkv06MpxBZ8sa4fUqs4yB3STLM29Ip82/view?usp=sharing",
     email: "abhishekmandavi912@gmail.com"
   };
   
