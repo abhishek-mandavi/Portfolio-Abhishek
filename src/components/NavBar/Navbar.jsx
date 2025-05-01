@@ -6,7 +6,7 @@ export default function Navbar() {
   const [activeSection, setActiveSection] = useState('home')
 
   const handleGitHubClick = () => {
-    window.open("https://github.com", "_blank")
+    window.open("https://github.com/abhishek-mandavi", "_blank")
   }
 
   const sections = useRef({
