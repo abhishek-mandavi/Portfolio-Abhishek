@@ -24,10 +24,10 @@ const Footer = () => {
       {/* Social Media Icons */}
       <div className="flex mt-4 gap-6">
         <a href={Bio.github} target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 text-2xl hover:text-blue-500">
-          <img src="/assets/images/githubIcon.png"/>
+          <img src="/dist/assets/images/githubIcon.png"/>
         </a>
         <a href={Bio.email} target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 text-2xl hover:text-blue-500">
-          <img src="/assets/images/emailIcon.png"/>
+          <img src="/dist/assets/images/emailIcon.png"/>
         </a>
         <a href={Bio.linkedin} target="_blank" rel="noopener noreferrer" className="text-gray-600 dark:text-gray-300 text-2xl hover:text-blue-500">
           <LinkedInIcon />
